@@ -1,6 +1,6 @@
 # Angular2-Product-Display-Page
 
-Author - Shweta Sinha 
+Author - Pandurang Nanaware
 
 Purpose - Creating a singlepage application to enlist all the products with images & description.
 
